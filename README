@@ -1,1 +1,5 @@
 Test Repository used to test my script on.
+
+
+Use the following command to make empty commits for testing:
+git commit -m "Leaving behind <#>" --allow-empty
